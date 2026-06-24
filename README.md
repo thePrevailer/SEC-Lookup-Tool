@@ -8,11 +8,12 @@ Most people don't even know it exists. Now you can look it up in seconds.
 Search any public company by name, ticker, or CIK and instantly find their unique SEC identifier (e.g. 320193), Exchange — where it's traded (e.g "Nasdaq"), and ticker - their stock symbol
 
 ## How to run it
-pip3 install -
-python3 app.py
-Then open your7.0.0.1:5000` — this runs on your own computer, no internet needed.
+1. Clone this repository and open it in your IDE
+2. Run `pip3 install -r requirements.txt`
+3. Run `python3 app.py`
+4. Run on your local host, no internet needed.
 
 ## Built with
 - Python
 - Flask
-- SEC EDGAR pu
+- SEC EDGAR 
